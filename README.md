@@ -40,7 +40,7 @@ Como o projeto foi estruturado de forma modular na pasta `scripts/`, siga a orde
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/projeto-brasileirao.git](https://github.com/SEU-USUARIO/projeto-brasileirao.git)
+   git clone [https://github.com/gabrielnoliveirads/brasileirao-saldo-gols.git](https://github.com/gabrielnoliveirads/brasileirao-saldo-gols.git)
    ```
 2. Abra o arquivo **`Projeto_brasileirao.Rproj`** no RStudio para definir automaticamente o diretório de trabalho.
 3. Garanta que possui os pacotes necessários instalados:
